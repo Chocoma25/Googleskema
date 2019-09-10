@@ -1,0 +1,93 @@
+p
+{
+    font-family: arial
+}
+
+p
+{
+	color: gray;
+
+}
+#conteneur
+{
+	display:flex;
+	justify-content: space-around;
+	width: 17%;
+}	
+
+
+body
+{
+	font-family: arial;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	min-height: 100vh;
+}
+
+header
+{
+	display: flex;
+	justify-content: flex-end;
+	margin: 20px;
+	}
+
+.Logo
+{
+	size: 1.6em;
+	position: absolute;
+	left: 582px;
+	top: 182px; 
+}
+
+.barre
+{
+	position: absolute;
+	left: 500px;
+	top: 300px; 
+}
+
+.boutons
+{
+	position: absolute;
+	left: 600px;
+	top: 340px; 
+}
+
+
+
+footer
+{
+	background-color: lightgray;
+	}
+
+.france
+{
+	position: absolute;
+	left: 20px;
+	top: 740px;
+}
+
+#basgauche
+{
+	position: absolute;
+	left: 20px;
+	top:770px;
+}
+
+.basdroit
+{	
+	position: absolute;
+	right: 20px;
+	top:800px;
+}
+
+a
+{
+	color:black;
+
+}
+
+
+
+
